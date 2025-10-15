@@ -1,0 +1,13 @@
+name: get-selected-text
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/7a798791-d426-4036-8d4f-0f32debdca48
+description: A tiny Rust library that allows you to easily obtain selected text across all platforms (macOS, Windows, Linux).
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
